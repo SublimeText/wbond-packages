@@ -1,0 +1,80 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "Alignment",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/sublime_alignment",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/wbond/sublime_alignment/tags"
+				}
+			]
+		},
+		{
+			"name": "ChannelRepositoryTools",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/ChannelRepositoryTools",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/wbond/ChannelRepositoryTools/tags"
+				}
+			]
+		},
+		{
+			"name": "Package Control",
+			"description": "The Sublime Text package manager",
+			"author": "Will Bond (wbond)",
+			"homepage": "https://packagecontrol.io",
+			"readme": "https://packagecontrol.io/readme.md",
+			"donate": "https://packagecontrol.io/say_thanks",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"version": "3.4.1",
+					"url": "https://packagecontrol.io/Package Control.sublime-package",
+					"date": "2020-10-10 10:41:00"
+				}
+			]
+		},
+		{
+			"name": "Package Coverage",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/codexns/package_coverage",
+			"labels": ["testing"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/codexns/package_coverage/tags"
+				}
+			]
+		},
+		{
+			"name": "Terminal",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/sublime_terminal",
+			"labels": ["terminal"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/wbond/sublime_terminal/tags"
+				}
+			]
+		},
+		{
+			"name": "Tortoise",
+			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/sublime_tortoise",
+			"labels": ["vcs", "svn", "hg", "git"],
+			"releases": [
+				{
+					"sublime_text": "<3000",
+					"platforms": ["windows"],
+					"details": "https://github.com/wbond/sublime_tortoise/tags"
+				}
+			]
+		}
+	]
+}
