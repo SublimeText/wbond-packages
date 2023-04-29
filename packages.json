@@ -2,17 +2,6 @@
 	"schema_version": "2.0",
 	"packages": [
 		{
-			"name": "Alignment",
-			"author": "Will Bond (wbond)",
-			"details": "https://github.com/wbond/sublime_alignment",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"details": "https://github.com/wbond/sublime_alignment/tags"
-				}
-			]
-		},
-		{
 			"name": "ChannelRepositoryTools",
 			"author": "Will Bond (wbond)",
 			"details": "https://github.com/wbond/ChannelRepositoryTools",
@@ -48,18 +37,6 @@
 				{
 					"sublime_text": "*",
 					"details": "https://github.com/codexns/package_coverage/tags"
-				}
-			]
-		},
-		{
-			"name": "Terminal",
-			"author": "Will Bond (wbond)",
-			"details": "https://github.com/wbond/sublime_terminal",
-			"labels": ["terminal"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"details": "https://github.com/wbond/sublime_terminal/tags"
 				}
 			]
 		},
