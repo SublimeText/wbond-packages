@@ -28,8 +28,8 @@
 				},
 				{
 					"sublime_text": ">=3143",
-					"version": "4.0.0-beta6",
-					"url": "https://github.com/wbond/package_control/archive/refs/tags/4.0.0-beta6.zip",
+					"version": "4.0.0-beta7",
+					"url": "https://github.com/wbond/package_control/archive/refs/tags/4.0.0-beta7.zip",
 					"date": "2023-07-26 11:00:00"
 				}
 			]
