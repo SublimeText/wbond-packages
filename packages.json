@@ -28,9 +28,9 @@
 				},
 				{
 					"sublime_text": ">=3143",
-					"version": "4.0.0-beta9",
-					"url": "https://github.com/wbond/package_control/archive/refs/tags/4.0.0-beta9.zip",
-					"date": "2023-10-28 15:05:00"
+					"version": "4.0.0-beta10",
+					"url": "https://github.com/wbond/package_control/archive/refs/tags/4.0.0-beta10.zip",
+					"date": "2023-11-25 15:53:00"
 				}
 			]
 		},
