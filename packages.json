@@ -21,10 +21,9 @@
 			"donate": "https://packagecontrol.io/say_thanks",
 			"releases": [
 				{
+					"base": "https://github.com/wbond/package_control",
 					"sublime_text": ">=3143",
-					"version": "4.0.0",
-					"url": "https://github.com/wbond/package_control/archive/refs/tags/4.0.0.zip",
-					"date": "2023-12-02 16:25:00"
+					"tags": true
 				}
 			]
 		},
