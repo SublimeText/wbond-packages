@@ -14,14 +14,12 @@
 		},
 		{
 			"name": "Package Control",
-			"description": "The Sublime Text package manager",
 			"author": "Will Bond (wbond)",
+			"details": "https://github.com/wbond/package_control",
 			"homepage": "https://packagecontrol.io",
-			"readme": "https://packagecontrol.io/readme.md",
 			"donate": "https://packagecontrol.io/say_thanks",
 			"releases": [
 				{
-					"base": "https://github.com/wbond/package_control",
 					"sublime_text": ">=3143",
 					"tags": true
 				}
